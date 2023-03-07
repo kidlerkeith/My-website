@@ -1,0 +1,62 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-image: url(images/dark-forest-shsyax3tzax42p9o.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+header{
+    font-size: 50px;
+    text-align: center;
+    color: brown;
+    height:118px;
+}
+.rounded-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 70%;
+    overflow-y: none;
+    text-align: left;
+}
+.sidebar{
+    width:200px;
+    height: 200px;
+}
+nav{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    padding-bottom: 14px;
+    padding-top: 14px;
+} 
+a{
+    color:darkred;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav a{
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:hover{
+    background-color: salmon;
+}
+h1{
+    color:darkred;
+    font-style: italic;
+}
+p{
+    color: white;
+}
+.contact-me{
+    color:darkgoldenrod;
+}
+.rounded_image{
+    width: 150px;
+    height: 150px;
+    border-radius: 70%;
+    overflow-y: none;
+}
